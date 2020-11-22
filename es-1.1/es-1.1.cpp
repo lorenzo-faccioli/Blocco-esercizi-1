@@ -1,3 +1,5 @@
+/* program that raises a number to a power
+*/
 #include <iostream>
 using namespace std;
 
